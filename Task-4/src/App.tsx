@@ -9,7 +9,7 @@ function App() {
     <TodoProvider>
       <div className="app">
         <div className="container">
-          <h1>Todo List</h1>
+          <h1>ToDo App</h1>
           <AddTodo />
           <TodoList />
         </div>
