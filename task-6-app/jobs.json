@@ -1,0 +1,22 @@
+{
+  "jobs": [
+    {
+      "id": 1,
+      "logo": "/ymca-logo.png",
+      "title": "Social Media Assistant",
+      "company": "Young Men Christians Association",
+      "location": "Addis Ababa, Ethiopia",
+      "description": "As a Social Media Assistant, you will work closely with the social media manager or marketing team to execute social media strategies and campaigns. You will be responsible for assisting in the creation and scheduling of engaging content, monitoring social media channels, and interacting with followers.",
+      "tags": ["In Person", "Education", "IT"]
+    },
+    {
+      "id": 2,
+      "logo": "/ymca-logo.png",
+      "title": "Content Writer",
+      "company": "Young Men Christians Association",
+      "location": "Addis Ababa, Ethiopia",
+      "description": "We are seeking a talented Content Writer to create compelling content for our various platforms. The ideal candidate will have excellent writing skills and be able to produce engaging content that resonates with our audience.",
+      "tags": ["Remote", "Content", "Writing"]
+    }
+  ]
+}
