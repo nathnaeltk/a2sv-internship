@@ -13,8 +13,11 @@ A modern job listing application built with Next.js and Tailwind CSS that displa
 
 ## Screenshots
 
-### Home Page
+### Job Listing Page
 ![Home Page](screenshots/screencapture-localhost-3000-2025-03-27-17_52_22.png)
+
+### Job Details Page
+![Job Page](screenshots/job.png)
 
 ## Getting Started
 

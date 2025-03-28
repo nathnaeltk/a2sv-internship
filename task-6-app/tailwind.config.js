@@ -8,7 +8,7 @@ module.exports = {
   theme: {
     extend: {
       fontFamily: {
-        epilogue: ['var(--font-epilogue)'],
+        montserrat: ['var(--font-montserrat)'],
       },
     },
   },

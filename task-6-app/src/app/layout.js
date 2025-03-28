@@ -1,9 +1,9 @@
-import { Epilogue } from "next/font/google";
+import { Montserrat } from "next/font/google";
 import "./globals.css";
 
-const epilogue = Epilogue({
+const montserrat = Montserrat({
   subsets: ["latin"],
-  variable: "--font-epilogue",
+  variable: "--font-montserrat",
 });
 
 export const metadata = {
@@ -14,7 +14,7 @@ export const metadata = {
 export default function RootLayout({ children }) {
   return (
     <html lang="en">
-      <body className={`${epilogue.variable} font-epilogue antialiased`}>
+      <body className={`${montserrat.variable} font-montserrat antialiased`}>
         {children}
       </body>
     </html>
