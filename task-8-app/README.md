@@ -22,15 +22,16 @@ A modern job listing application built with Next.js and Tailwind CSS that displa
 ### Sign Up Page
 ### Sign Up Page
 ![Sign Up Desktop](screenshots/signup.png)
-![Sign Up Mobile](screenshots/signup mobile.png)
+![Sign Up Mobile](screenshots/signup-mobile.png)
 
 ### Login Page
 ![Login Desktop](screenshots/login.png)
-![Login Mobile](screenshots/login mobile.png)
+![Login Mobile](screenshots/login-mobile.png)
 
 ### Email Verification Page
 ![Verify Desktop](screenshots/verify.png)
-![Verify Mobile](screenshots/verify mobile.png)
+![Verify Mobile](screenshots/verify-mobile.png)
+
 
 ## Getting Started
 
